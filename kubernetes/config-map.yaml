@@ -5,3 +5,4 @@ metadata:
   namespace: awauben
 data:
   LOCATION_FEATURE_ENABLED: "False"
+  --changing to false
