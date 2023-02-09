@@ -1,4 +1,4 @@
---2.9.23 updated pipeline name
+--2.9.23 updated pipeline name;
 -- PostgreSQL database dump
 --
 
